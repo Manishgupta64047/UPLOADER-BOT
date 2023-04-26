@@ -2,7 +2,7 @@ class Translation(object):
 
     ERROR = "<b>ERROR :</b> {}"
 
-    START_TEXT = """Hi {},
+    START_TEXT = """Hello Dear {},
 I'm URL X Uploader!
 You can upload HTTP/HTTPS direct link, Using this bot!
 
@@ -13,7 +13,7 @@ URL | filename | username | password"""
     DOWNLOAD_START = "📥Downloading..."
     UPLOAD_START = "📤Uploading..."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 2GB due to Telegram API limitations."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "Thanks for using @Uploader_X_bot\n\n<b>Join : @Space_X_Bots</b>"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "Thanks for using @url_uploader_pro_max_bot\n\n<b>Join : @mdisk_bots</b>"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds.\n\n@Uploader_X_Bot"
     SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in the video / file."
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
@@ -34,7 +34,7 @@ If bot didn't respond, contact @Sources_Codes"""
     ERR_ONLY_TWO_MEDIA_IN_ALBUM = """Media Album should contain only two photos. Please re-send the media album, and then try again, or send only two photos in an album."
 You can use /rename command after receiving file to rename it with custom thumbnail support.
 """
-    CANCEL_STR = "Process Cancelled"
+    CANCEL_STR = "Process Cancelled Nice Job Dear"
     ZIP_UPLOADED_STR = "Uploaded {} files in {} seconds"
     SLOW_URL_DECED = "Gosh that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Meanwhile, why don't you try this:==> https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
 
